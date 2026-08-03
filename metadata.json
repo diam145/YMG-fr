@@ -1,0 +1,6 @@
+{
+  "name": "WestFlow",
+  "description": "Cross-border remittance and local digital banking ecosystem for West Africa (Guinea - Conakry).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
